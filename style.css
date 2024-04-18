@@ -68,7 +68,7 @@ li span span {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 40px;
+  gap: 30px;
 }
 header {
   display: flex;
