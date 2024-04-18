@@ -26,7 +26,7 @@ main {
   flex-direction: column;
   align-items: center;
   padding: 40px;
-  gap: 40px;
+  gap: 30px;
   font-family: "Outfit", sans-serif;
 }
 
