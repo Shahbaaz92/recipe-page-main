@@ -96,7 +96,7 @@ header {
 .process {
   display: flex;
   flex-direction: column;
-  gap: 40px;
+  gap: 20px;
 }
 
 .process article ul,
