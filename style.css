@@ -142,4 +142,7 @@ hr {
   h1 {
     font-size: 2rem;
   }
+  img {
+    border-radius: 0;
+  }
 }
