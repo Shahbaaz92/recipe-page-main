@@ -18,7 +18,7 @@ body {
 }
 main {
   background-color: #fff;
-  margin-top: 100px;
+  margin-top: 120px;
   border-radius: 24px;
   width: 736px;
   min-height: 100vh;
@@ -73,7 +73,7 @@ li span span {
 header {
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 20px;
 }
 
 .time {
