@@ -77,9 +77,9 @@ h2 {
   background-color: #fff7fb;
   padding: 28px;
 }
-.time h3 {
+.time .prep-time {
   color: #7a284e;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 .time ul {
   margin-left: 20px;
