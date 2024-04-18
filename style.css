@@ -121,7 +121,7 @@ tr {
   /* border-bottom: 1px solid #e3ddd7; */
 }
 td {
-  padding: 20px;
+  padding: 10px 20px;
   border-bottom: 1px solid #e3ddd7;
 }
 table tr:last-of-type td {
