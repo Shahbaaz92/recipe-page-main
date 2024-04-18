@@ -18,7 +18,7 @@ body {
 }
 main {
   background-color: #fff;
-  margin-top: 50px;
+  margin-top: 100px;
   border-radius: 24px;
   width: 736px;
   min-height: 100vh;
@@ -39,9 +39,17 @@ h2 {
   font-family: "Young Serif", serif;
   font-weight: 400;
 }
+h1 {
+  font-size: 2.75rem;
+  color: #312e2c;
+}
 h2 {
+  font-size: 1.75rem;
   color: #854632;
   margin-bottom: 24px;
+}
+li {
+  margin-bottom: 8px;
 }
 p,
 li {
@@ -67,12 +75,7 @@ header {
   flex-direction: column;
   gap: 24px;
 }
-h1 {
-  font-size: 2.75rem;
-}
-h2 {
-  font-size: 1.75rem;
-}
+
 .time {
   background-color: #fff7fb;
   padding: 28px;
@@ -80,6 +83,8 @@ h2 {
 .time .prep-time {
   color: #7a284e;
   font-size: 1.25rem;
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
 }
 .time ul {
   margin-left: 20px;
